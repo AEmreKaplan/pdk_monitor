@@ -157,17 +157,17 @@
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_h59gx3h",
-          "name": "SOI 500 nm",
+          "id": "g_rzdmyfc",
+          "name": "SiN 200 nm",
           "platformMeta": {
-            "material": "Si",
-            "thickness": 500
+            "material": "SiN",
+            "thickness": 200
           },
           "collapsed": false,
           "entities": [
             {
-              "id": "e_pr7xkcu",
-              "name": "new bb user",
+              "id": "e_gizevn2",
+              "name": "newuser sin 200",
               "status": "available",
               "owner": "",
               "description": "",
@@ -183,7 +183,7 @@
               "params": {
                 "width_nm": 500,
                 "length_um": 100,
-                "thickness_nm": 500
+                "thickness_nm": 200
               },
               "layoutSvg": "",
               "gdsName": "",
@@ -194,7 +194,14 @@
               "fabTabs": [],
               "plannedReleaseDate": "",
               "trl": null,
-              "smatrixGroups": []
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ]
         }
@@ -202,12 +209,14 @@
     }
   ],
   "ownership": {
-    "e_pr7xkcu": "newuser"
+    "e_gizevn2": "newuser"
   },
-  "labels": {},
+  "labels": {
+    "newuser": "newuser"
+  },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T15:43:49.421Z",
+    "publishedAt": "2026-05-24T16:02:33.585Z",
     "publisherIdentity": "newuser",
     "publisherLabel": "newuser",
     "publisherRole": "user-admin",
