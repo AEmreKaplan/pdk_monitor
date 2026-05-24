@@ -166,8 +166,8 @@
           "collapsed": false,
           "entities": [
             {
-              "id": "e_71cbhlt",
-              "name": "newuser bb",
+              "id": "e_pr7xkcu",
+              "name": "new bb user",
               "status": "available",
               "owner": "",
               "description": "",
@@ -202,12 +202,12 @@
     }
   ],
   "ownership": {
-    "e_71cbhlt": "newuser"
+    "e_pr7xkcu": "newuser"
   },
   "labels": {},
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T15:37:13.609Z",
+    "publishedAt": "2026-05-24T15:43:49.421Z",
     "publisherIdentity": "newuser",
     "publisherLabel": "newuser",
     "publisherRole": "user-admin",
