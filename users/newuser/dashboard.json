@@ -204,26 +204,66 @@
               "edaLinks": []
             }
           ]
+        },
+        {
+          "id": "g_4ii1pvl",
+          "name": "X FOUNDRY PDK",
+          "platformMeta": null,
+          "collapsed": false,
+          "entities": [
+            {
+              "id": "e_60wfaa5",
+              "name": "SOI WG XFOUNDRY",
+              "status": "available",
+              "owner": "",
+              "description": "",
+              "githubUrl": "",
+              "files": [],
+              "scripts": [],
+              "datasets": [],
+              "testGroups": [],
+              "updated": "2026-05-24",
+              "kind": "passive",
+              "bbType": "waveguide",
+              "dimensionsOn": true,
+              "params": {
+                "width_nm": 500,
+                "length_um": 100,
+                "thickness_nm": 220
+              },
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "edaTools": [],
+              "cdi": {},
+              "fabTabs": [],
+              "plannedReleaseDate": "",
+              "trl": null,
+              "smatrixGroups": []
+            }
+          ]
         }
       ]
     }
   ],
   "ownership": {
-    "e_q6trazx": "newuser"
+    "e_q6trazx": "newuser",
+    "e_60wfaa5": "newuser"
   },
   "labels": {
     "newuser": "newuser"
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T16:16:30.319Z",
+    "publishedAt": "2026-05-24T16:33:21.882Z",
     "publisherIdentity": "newuser",
     "publisherLabel": "newuser",
     "publisherRole": "user-admin",
     "payloadKind": "user-admin-slice",
     "appVersion": "v1.0",
-    "bbCount": 1,
-    "groupCount": 1,
+    "bbCount": 2,
+    "groupCount": 2,
     "tabCount": 1,
     "fileCount": 0,
     "sliceFor": "newuser",
