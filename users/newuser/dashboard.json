@@ -82,6 +82,11 @@
       "id": "heater",
       "name": "Electrical",
       "color": "#d7da4e"
+    },
+    {
+      "id": "x_zfoz6g6",
+      "name": "Quantum phonics",
+      "color": "#56d364"
     }
   ],
   "bbTypes": [
@@ -149,15 +154,19 @@
       "id": "custom",
       "name": "custom (upload image)",
       "sketch": "custom"
+    },
+    {
+      "id": "x_kkk3zvf",
+      "name": "QCD"
     }
   ],
   "tabs": [
     {
-      "id": "tab_2h903tm",
+      "id": "tab_yrvn6x9",
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_h59gx3h",
+          "id": "g_3fd8oea",
           "name": "SOI 500 nm",
           "platformMeta": {
             "material": "Si",
@@ -240,7 +249,14 @@
               "fabTabs": [],
               "plannedReleaseDate": "",
               "trl": null,
-              "smatrixGroups": []
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ]
         }
@@ -256,7 +272,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T16:33:21.882Z",
+    "publishedAt": "2026-05-24T17:46:51.795Z",
     "publisherIdentity": "newuser",
     "publisherLabel": "newuser",
     "publisherRole": "user-admin",
