@@ -157,17 +157,17 @@
       "name": "Technology Platforms",
       "groups": [
         {
-          "id": "g_rzdmyfc",
-          "name": "SiN 200 nm",
+          "id": "g_h59gx3h",
+          "name": "SOI 500 nm",
           "platformMeta": {
-            "material": "SiN",
-            "thickness": 200
+            "material": "Si",
+            "thickness": 500
           },
           "collapsed": false,
           "entities": [
             {
-              "id": "e_gizevn2",
-              "name": "newuser sin 200",
+              "id": "e_q6trazx",
+              "name": "newuser new bb",
               "status": "available",
               "owner": "",
               "description": "",
@@ -183,7 +183,7 @@
               "params": {
                 "width_nm": 500,
                 "length_um": 100,
-                "thickness_nm": 200
+                "thickness_nm": 500
               },
               "layoutSvg": "",
               "gdsName": "",
@@ -209,14 +209,14 @@
     }
   ],
   "ownership": {
-    "e_gizevn2": "newuser"
+    "e_q6trazx": "newuser"
   },
   "labels": {
     "newuser": "newuser"
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T16:02:33.585Z",
+    "publishedAt": "2026-05-24T16:15:24.085Z",
     "publisherIdentity": "newuser",
     "publisherLabel": "newuser",
     "publisherRole": "user-admin",
