@@ -240,7 +240,14 @@
               "fabTabs": [],
               "plannedReleaseDate": "",
               "trl": null,
-              "smatrixGroups": []
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ]
         }
@@ -256,7 +263,7 @@
   },
   "contributors": [],
   "_distribution": {
-    "publishedAt": "2026-05-24T16:33:21.882Z",
+    "publishedAt": "2026-05-24T17:27:28.610Z",
     "publisherIdentity": "newuser",
     "publisherLabel": "newuser",
     "publisherRole": "user-admin",
